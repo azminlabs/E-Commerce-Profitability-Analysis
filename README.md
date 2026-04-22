@@ -138,7 +138,7 @@ Return rates vary significantly across channels, with the critical point at **So
 *Return rate heatmap by category and channel — red cells indicate critical points*
 
 ---
-[Return Revenue Waterfall](/image/return_revenue_waterfall.jpg) 
+![Return Revenue Waterfall](/image/return_revenue_waterfall.jpg) 
 
 *Revenue impact of returns: $20.6K lost revenue → $13.6K net loss* |
 
@@ -150,7 +150,7 @@ Return rates vary significantly across channels, with the critical point at **So
 
 **TikTok Ads (avg. 24.4x)** and **Influencer (23.4x)** consistently lead in ROAS. Monthly analysis reveals **budget wastage on Email Marketing**, especially in **June, October through December**.
 
-[ROAS by Platform](/image/roas_by_platform.jpg)
+![ROAS by Platform](/image/roas_by_platform.jpg)
 
 *Average ROAS per marketing platform — TikTok Ads leads at 24.4x*
 
